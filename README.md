@@ -30,7 +30,7 @@ URLS_TO_CHECK = ["http://facebook.com",
 #### You have to have a token so you can send messages to a slack channel! Get one here
 https://api.slack.com/docs/oauth-test-tokens
 
-You need then to export it as an environmental variable or hardcoded
+You need then to export it as an environmental variable or hardcoded.
 
 ~~~~
 export SLACK_TOKEN = 'your_token_here'
@@ -56,5 +56,7 @@ CHANNEL_ID = "G2LCBCXGF"
 ### Remember to star this repository and fork it.
 
 #### Bugs / Issues / Suggestions -> write me a message on "Issues"
+
+## Thanks for visiting.
 
 
